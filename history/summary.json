@@ -4,19 +4,19 @@
     "url": "https://dga.gov.sa/en/regulatory_framework",
     "icon": "https://icons.duckduckgo.com/ip3/dga.gov.sa.ico",
     "slug": "dga-regulatory-framework",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2964,
-    "timeDay": 2497,
-    "timeWeek": 2964,
-    "timeMonth": 2964,
-    "timeYear": 2964,
+    "status": "up",
+    "uptime": "99.58%",
+    "uptimeDay": "97.86%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.58%",
+    "uptimeYear": "99.58%",
+    "time": 2854,
+    "timeDay": 2347,
+    "timeWeek": 2854,
+    "timeMonth": 2854,
+    "timeYear": 2854,
     "dailyMinutesDown": {
-      "2025-06-06": 0
+      "2025-06-06": 31
     }
   },
   {
