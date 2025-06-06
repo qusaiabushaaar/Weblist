@@ -4,7 +4,7 @@
     "url": "https://dga.gov.sa/en/regulatory_framework",
     "icon": "https://icons.duckduckgo.com/ip3/dga.gov.sa.ico",
     "slug": "dga-regulatory-framework",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 2964,
     "timeMonth": 2964,
     "timeYear": 2964,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-06": 0
+    }
   },
   {
     "name": "Google",
