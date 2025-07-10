@@ -5,17 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dga.gov.sa.ico",
     "slug": "dga-regulatory-framework",
     "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.86%",
+    "uptime": "99.76%",
+    "uptimeDay": "95.98%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.76%",
     "time": 2403,
     "timeDay": 1413,
     "timeWeek": 1919,
     "timeMonth": 2325,
     "timeYear": 2403,
     "dailyMinutesDown": {
+      "2025-07-10": 58,
       "2025-07-02": 46,
       "2025-06-06": 31
     }
