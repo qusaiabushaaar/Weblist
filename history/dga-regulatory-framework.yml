@@ -1,7 +1,7 @@
 url: https://dga.gov.sa/en/regulatory_framework
-status: up
-code: 200
-responseTime: 3036
-lastUpdated: 2025-07-16T23:21:32.560Z
+status: down
+code: 503
+responseTime: 1133
+lastUpdated: 2025-07-17T17:39:13.887Z
 startTime: 2025-06-01T15:43:29.365Z
 generator: Upptime <https://github.com/upptime/upptime>
